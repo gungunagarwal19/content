@@ -1,0 +1,2395 @@
+{
+  "competitors": [
+    {
+      "id": "comp_1793027824532_3owec",
+      "domain": "linear.app",
+      "name": "linear.app",
+      "createdAt": "2026-10-26T15:17:04.532Z",
+      "lastScannedAt": "2026-10-26T15:17:12.860Z",
+      "scanCount": 1,
+      "totalPosts": 5,
+      "updatedAt": "2026-10-26T15:17:12.860Z"
+    },
+    {
+      "id": "comp_1793027919629_cctrl",
+      "domain": "github. blog",
+      "name": "github. blog",
+      "createdAt": "2026-10-26T15:18:39.624Z",
+      "lastScannedAt": null,
+      "scanCount": 0,
+      "totalPosts": 0
+    },
+    {
+      "id": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "name": "zapier.com",
+      "createdAt": "2026-10-26T15:18:56.249Z",
+      "lastScannedAt": "2026-10-26T18:24:48.632Z",
+      "scanCount": 5,
+      "totalPosts": 43,
+      "updatedAt": "2026-10-26T18:24:48.635Z"
+    },
+    {
+      "id": "comp_1793032515903_x6itt",
+      "domain": "medium.com",
+      "name": "medium.com",
+      "createdAt": "2026-10-26T16:35:15.901Z",
+      "lastScannedAt": null,
+      "scanCount": 0,
+      "totalPosts": 0
+    }
+  ],
+  "posts": [
+    {
+      "id": "post_1793027832039_ebb54",
+      "firstSeenAt": "2026-10-26T15:17:12.039Z",
+      "url": "https://linear.app/customers/mercury",
+      "title": "Mercury eliminated cluttered feedback with Linear Asks",
+      "publishDate": "2026-10-26T15:17:09.429Z",
+      "metaDescription": "Mercury is the fintech ambitious companies use for banking and all their financial workflows.",
+      "targetKeyword": "mercury",
+      "competitorId": "comp_1793027824532_3owec",
+      "domain": "linear.app",
+      "searchVolume": 8080,
+      "cpc": 3.95,
+      "competition": "HIGH",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": true,
+      "runId": "run_1793027824534_ku8wr"
+    },
+    {
+      "id": "post_1793027832039_zsws3",
+      "firstSeenAt": "2026-10-26T15:17:12.039Z",
+      "url": "https://linear.app/contact/sales?message=I%27m+interested+in+Linear+Insights+for+my+team.+I%27d+like+to+learn+more+about%E2%80%A6",
+      "title": "Talk to sales – Linear",
+      "publishDate": "2026-10-26T15:17:10.006Z",
+      "metaDescription": "Get in touch with the Linear sales team to talk about plans, pricing, enterprise contracts, or to request a demo.",
+      "targetKeyword": "sales",
+      "competitorId": "comp_1793027824532_3owec",
+      "domain": "linear.app",
+      "searchVolume": 8160,
+      "cpc": 4.05,
+      "competition": "HIGH",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": true,
+      "runId": "run_1793027824534_ku8wr"
+    },
+    {
+      "id": "post_1793027832040_0hoqr",
+      "firstSeenAt": "2026-10-26T15:17:12.040Z",
+      "url": "https://linear.app/coding-sessions",
+      "title": "Coding Sessions – Linear",
+      "publishDate": "2026-10-26T15:17:10.576Z",
+      "metaDescription": "Linear Agent can now write code. Triage, plan, build, and review all in one place.",
+      "targetKeyword": "coding sessions",
+      "competitorId": "comp_1793027824532_3owec",
+      "domain": "linear.app",
+      "searchVolume": 3640,
+      "cpc": 3.15,
+      "competition": "HIGH",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": true,
+      "runId": "run_1793027824534_ku8wr"
+    },
+    {
+      "id": "post_1793027832041_cnhj4",
+      "firstSeenAt": "2026-10-26T15:17:12.041Z",
+      "url": "https://linear.app/customer-requests",
+      "title": "Customer Requests – Linear",
+      "publishDate": "2026-10-26T15:17:11.417Z",
+      "metaDescription": "Bring the voice of the customer into product development. Capture feedback, understand user needs, and build what customers actually want.",
+      "targetKeyword": "customer requests",
+      "competitorId": "comp_1793027824532_3owec",
+      "domain": "linear.app",
+      "searchVolume": 2920,
+      "cpc": 2.05,
+      "competition": "MEDIUM",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": true,
+      "runId": "run_1793027824534_ku8wr"
+    },
+    {
+      "id": "post_1793027832042_wkei1",
+      "firstSeenAt": "2026-10-26T15:17:12.042Z",
+      "url": "https://linear.app/integrations",
+      "title": "Integrations – Linear",
+      "publishDate": "2026-10-26T15:17:12.036Z",
+      "metaDescription": "Enhance your Linear workspace with hand-picked integrations.",
+      "targetKeyword": "integrations",
+      "competitorId": "comp_1793027824532_3owec",
+      "domain": "linear.app",
+      "searchVolume": 8760,
+      "cpc": 2.75,
+      "competition": "HIGH",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": true,
+      "runId": "run_1793027824534_ku8wr"
+    },
+    {
+      "id": "post_1793027944953_0p9bo",
+      "firstSeenAt": "2026-10-26T15:19:04.953Z",
+      "url": "https://zapier.com/blog/best-pomodoro-apps",
+      "title": "The 5 best Pomodoro timer apps in 2026",
+      "publishDate": "2026-10-23T14:23:00.000Z",
+      "metaDescription": "The Pomodoro Technique is one of the most deceptively simple and effective productivity tools I've ever used. It stops you from procrastinating or getting distracted, so you can just get things done. All it takes is enough commitment to start a timer. While any timer (or timer ap",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor intelligence",
+      "searchVolume": 3840,
+      "cpc": 3.75,
+      "competition": "HIGH",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944954_noegy",
+      "firstSeenAt": "2026-10-26T15:19:04.954Z",
+      "url": "https://zapier.com/blog/best-ai-agents",
+      "title": "The 7 best AI agents in 2026",
+      "publishDate": "2026-10-23T05:00:00.000Z",
+      "metaDescription": "AI agents were the promise of 2024, the hype of 2025, and the expectation of 2026 and beyond. The category has matured, and a handful of agents are ready to use out of the box, with tool access, task completion, and guardrails for the data they touch. I've spent a lot of time wit",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor intelligence",
+      "searchVolume": 3840,
+      "cpc": 3.75,
+      "competition": "HIGH",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944955_fdoan",
+      "firstSeenAt": "2026-10-26T15:19:04.955Z",
+      "url": "https://zapier.com/blog/google-forms-vs-jotform",
+      "title": "Google Forms vs. Jotform: Which should you use? [2026]",
+      "publishDate": "2026-10-23T05:00:00.000Z",
+      "metaDescription": "Google Forms and Jotform are two of the biggest online form and survey makers, but they're pretty different tools. Google Forms is simple and lightweight and allows you to collect basic responses to most types of questions you might want to ask. It's fast, free, and almost everyo",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor intelligence",
+      "searchVolume": 3840,
+      "cpc": 3.75,
+      "competition": "HIGH",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944956_1flt5",
+      "firstSeenAt": "2026-10-26T15:19:04.956Z",
+      "url": "https://zapier.com/blog/obsidian-vs-notion",
+      "title": "Obsidian vs. Notion: Which is best? [2026]",
+      "publishDate": "2026-10-23T04:00:00.000Z",
+      "metaDescription": "Modern note-taking platforms go beyond documenting your thoughts. They offer powerful workplaces to manage your knowledge, no matter where it comes from. Whether that's turning a bunch of data into a live website or visualizing relationships between piles of notes, they've got yo",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor intelligence",
+      "searchVolume": 3840,
+      "cpc": 3.75,
+      "competition": "HIGH",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944957_e37ir",
+      "firstSeenAt": "2026-10-26T15:19:04.957Z",
+      "url": "https://zapier.com/blog/what-is-slack",
+      "title": "What is Slack? And what is it used for?",
+      "publishDate": "2026-10-23T04:00:00.000Z",
+      "metaDescription": "When I first used Slack back in 2015, I could not for the life of me wrap my head around the concept of threads. Now, after a decade or so of Slacking, I'm the person passive aggressively reminding people to please respond in threads for the love of all that is productive. That's",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor intelligence",
+      "searchVolume": 3840,
+      "cpc": 3.75,
+      "competition": "HIGH",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944958_7e6aw",
+      "firstSeenAt": "2026-10-26T15:19:04.958Z",
+      "url": "https://zapier.com/blog/blue-castle-agency-zapier-mcp",
+      "title": "How a recruiting agency uses Claude and Zapier MCP to find the candidates who aren't looking",
+      "publishDate": "2026-10-22T13:00:00.000Z",
+      "metaDescription": "Curtis Key has been building automation for about 20 years, first with basic code and scripts, then in Salesforce at a real estate brokerage that grew from 8 to 105 agents. But when hiring became the brokerage's hardest problem, he founded Blue Castle Agency, a recruitment firm e",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944958_lv0x5",
+      "firstSeenAt": "2026-10-26T15:19:04.958Z",
+      "url": "https://zapier.com/blog/vetano-next-gen-zaps",
+      "title": "How a three-person hiring startup built its go-to-market engine before the rush",
+      "publishDate": "2026-10-22T13:00:00.000Z",
+      "metaDescription": "Chris Fairley founded the hiring platform Vetano in early 2025. After a particularly challenging job-hunting experience, Chris found that a strong resume was no longer enough. Resumes get about seven seconds of attention, according to Ladders' eye-tracking research. With AI now s",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944959_gborz",
+      "firstSeenAt": "2026-10-26T15:19:04.959Z",
+      "url": "https://zapier.com/blog/ai-training-for-employees",
+      "title": "How to implement AI training for employees",
+      "publishDate": "2026-10-21T05:00:00.000Z",
+      "metaDescription": "Most teams don't struggle to implement AI in their daily workflows because they're resistant to change—they struggle because they haven't been given the structure to learn how to use it effectively. Employees who receive formal AI training are far more likely to see it as a boost",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944959_fsuqk",
+      "firstSeenAt": "2026-10-26T15:19:04.959Z",
+      "url": "https://zapier.com/blog/framer-vs-webflow",
+      "title": "Framer vs. Webflow: Which website builder should you use? [2026]",
+      "publishDate": "2026-10-21T04:00:00.000Z",
+      "metaDescription": "As a web designer in the mid-2010s, I used what everyone recommended at the time: WordPress. While it's a great tool, I found myself spending hours trying to fix spacing issues, reconcile bugs created by incompatible plugins, and troubleshoot server errors. (There's nothing quite",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944959_teyai",
+      "firstSeenAt": "2026-10-26T15:19:04.959Z",
+      "url": "https://zapier.com/blog/best-mobile-scanning-ocr-apps",
+      "title": "The best mobile scanning and OCR software in 2026",
+      "publishDate": "2026-10-21T04:00:00.000Z",
+      "metaDescription": "For the longest time, I relied on a photo to take my documents from paper to the digital world. But now that I've discovered the power of OCR scanning software, I have no intention of going back to the Paper Ages. I most often use scanning apps for business-related documents and ",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944960_ujrq8",
+      "firstSeenAt": "2026-10-26T15:19:04.960Z",
+      "url": "https://zapier.com/blog/how-to-make-a-google-meet",
+      "title": "How to make a Google Meet meeting",
+      "publishDate": "2026-10-21T04:00:00.000Z",
+      "metaDescription": "I live in a bubble of sorts where most of my coworkers and other professionals in my network default to Zoom meetings. It's glorious—and, honestly, the right way to do meetings. But every now and then, that precious bubble is burst when someone sends me a Google Meet meeting—or s",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944960_z9ezx",
+      "firstSeenAt": "2026-10-26T15:19:04.960Z",
+      "url": "https://zapier.com/blog/connect-multiple-ai-clients-zapier-mcp",
+      "title": "Use one Zapier MCP server across all your AI tools",
+      "publishDate": "2026-10-20T00:00:00.000Z",
+      "metaDescription": "Most teams don't stick to one AI tool. Your support team works in Claude, a few people swear by ChatGPT, and your engineers live in Cursor. Until now, each of those tools needed its own Zapier MCP server, with its own apps and skills to set up. Now you can connect all of them to ",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944961_v5sve",
+      "firstSeenAt": "2026-10-26T15:19:04.961Z",
+      "url": "https://zapier.com/blog/api-documentation",
+      "title": "API documentation: What it is and how to write it (with examples)",
+      "publishDate": "2026-10-19T05:00:00.000Z",
+      "metaDescription": "Back before we carried the entirety of human knowledge around with us in our pockets, we printed instruction manuals on paper and included them with just about anything more complicated than a spoon. They were important, too. For instance, if I bought a video game with the manual",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944961_091c8",
+      "firstSeenAt": "2026-10-26T15:19:04.961Z",
+      "url": "https://zapier.com/blog/opencode-vs-claude-code",
+      "title": "OpenCode vs. Claude Code: Which AI coding tool is best? [2026]",
+      "publishDate": "2026-10-19T04:00:00.000Z",
+      "metaDescription": "Imagine Claude Code is a taxi. You state the objective, and it starts driving. You're impressed with the decisions it's making, until it stops in the middle of the road: \"Sorry, you've hit 100% of your usage.\" Now, you either turn over your wallet or give up and look for coffee w",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944962_wv7p6",
+      "firstSeenAt": "2026-10-26T15:19:04.962Z",
+      "url": "https://zapier.com/blog/webflow-vs-wordpress",
+      "title": "Webflow vs. WordPress: Which is better for your website? [2026]",
+      "publishDate": "2026-10-19T04:00:00.000Z",
+      "metaDescription": "As a web designer who's built dozens of websites in WordPress, I have a confession to make: I'm not really fond of it. WordPress is over two decades old, its foundations are still built on rickety 2003-era technology, and there are a few layers of modern code digitally duct-taped",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944962_elqzl",
+      "firstSeenAt": "2026-10-26T15:19:04.962Z",
+      "url": "https://zapier.com/blog/best-all-in-one-messaging-app",
+      "title": "The best all-in-one messaging app in 2026",
+      "publishDate": "2026-10-19T04:00:00.000Z",
+      "metaDescription": "There are too many messaging apps. Meta alone has three: Messenger, WhatsApp, and Instagram. Throw in regular texting like SMS and iMessage, secure apps like Signal, work apps like Slack, and even offbeat options like Discord and X, and the situation just gets silly. But what if ",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944963_j8j53",
+      "firstSeenAt": "2026-10-26T15:19:04.963Z",
+      "url": "https://zapier.com/blog/google-vids",
+      "title": "What is Google Vids? And how to use it",
+      "publishDate": "2026-10-16T04:00:00.000Z",
+      "metaDescription": "I teach classes asynchronously at a local college, which means I spend a lot of time trying to find new ways to create fun and engaging content that students will actually log in to watch. My lectures are all built on Google Slides, so naturally, Google Vids—Google's AI video gen",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944963_jzfnc",
+      "firstSeenAt": "2026-10-26T15:19:04.963Z",
+      "url": "https://zapier.com/blog/best-rss-feed-reader-apps",
+      "title": "The 3 best free RSS reader apps in 2026",
+      "publishDate": "2026-10-16T04:00:00.000Z",
+      "metaDescription": "If you want to really follow a publication, writer, or something else online and see everything they publish—not just what some social media algorithm throws your way—the best way to do it is with an RSS reader. RSS (it stands for Really Simple Syndication) has been around since ",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944963_x9mof",
+      "firstSeenAt": "2026-10-26T15:19:04.963Z",
+      "url": "https://zapier.com/blog/best-employee-management-software",
+      "title": "The 7 best employee management software and apps in 2026",
+      "publishDate": "2026-10-15T04:00:00.000Z",
+      "metaDescription": "Managing a workforce effectively is a key ingredient to the growth of a business—big or small—and to do this, many businesses turn to employee management software. Employee management software is a fuzzy-ish category. At its core, it's about streamlining HR work (from both the em",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944964_vpqpl",
+      "firstSeenAt": "2026-10-26T15:19:04.964Z",
+      "url": "https://zapier.com/blog/export-zapier-usage-history",
+      "title": "Export your Zapier usage history as a CSV",
+      "publishDate": "2026-10-15T00:00:00.000Z",
+      "metaDescription": "Deciding whether your plan still fits means looking past the billing period you're in right now. The Usage insights tab shows the current period, but plan decisions usually need the last several. You can now export up to your last 12 completed billing periods of task usage as a C",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944965_pqo5a",
+      "firstSeenAt": "2026-10-26T15:19:04.965Z",
+      "url": "https://zapier.com/blog/3r-plumbing-next-gen-zaps",
+      "title": "From a garage and a pickup truck to $3.8 million",
+      "publishDate": "2026-10-14T13:00:00.000Z",
+      "metaDescription": "A missed call in home services is a missed job. In a Massachusetts October, that can be a five-figure heating replacement going to the next company on Google. Ross Hunt started 3R Plumbing & Mechanical in 2022 out of his garage with one pickup truck. In its early days, the vetera",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944965_4s13x",
+      "firstSeenAt": "2026-10-26T15:19:04.965Z",
+      "url": "https://zapier.com/blog/human-in-the-loop",
+      "title": "Human-in-the-loop in AI workflows: HITL meaning, benefits, and practical patterns",
+      "publishDate": "2026-10-14T05:00:00.000Z",
+      "metaDescription": "AI systems can route messages, update records, make decisions, and trigger entire workflows across multiple apps without you touching anything. But as AI shifts more and more from being an assistive tool to powering agentic systems, humans have a new kind of responsibility: makin",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944965_coiox",
+      "firstSeenAt": "2026-10-26T15:19:04.965Z",
+      "url": "https://zapier.com/blog/ai-models-on-zapier",
+      "title": "Which AI models can you automate on Zapier? (OpenAI, Anthropic, Google, Moonshot AI, Z.ai, and more)",
+      "publishDate": "2026-10-14T05:00:00.000Z",
+      "metaDescription": "Staying up to date on the latest AI models is like trying to keep my house vacuumed in the height of my dog's shedding season (a losing battle). New AI models drop practically every week, and it's not exactly obvious which ones deserve a spot in your workflows. This guide is your",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944966_91amp",
+      "firstSeenAt": "2026-10-26T15:19:04.966Z",
+      "url": "https://zapier.com/blog/claude-vs-chatgpt",
+      "title": "Claude vs. ChatGPT: Which is best? [2026]",
+      "publishDate": "2026-10-14T05:00:00.000Z",
+      "metaDescription": "When OpenAI launched ChatGPT in late 2022, tech writers (myself included) became obsessed with testing its limits. Could it write poetry? Debug code? Explain quantum physics to a five-year-old? Once Anthropic's Claude entered the scene a few months later, the focus shifted to hea",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944966_5e7py",
+      "firstSeenAt": "2026-10-26T15:19:04.966Z",
+      "url": "https://zapier.com/blog/best-ai-chatbot",
+      "title": "The best AI chatbots in 2026",
+      "publishDate": "2026-10-14T05:00:00.000Z",
+      "metaDescription": "You've probably already subscribed to ChatGPT. Maybe your company rolled out Copilot. Your developer friends won't shut up about Claude. All the noise is confusing: which one should you actually use for your work? The answer depends on the actual task. The AI that's perfect for w",
+      "source": "RSS",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "targetKeyword": "competitor post",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944967_vorca",
+      "firstSeenAt": "2026-10-26T15:19:04.967Z",
+      "url": "https://zapier.com/security-compliance",
+      "title": "Zapier | Secure and Compliant AI Orchestration at Scale",
+      "publishDate": "2026-10-26T15:19:01.802Z",
+      "metaDescription": "Scale AI securely with Zapier. Get enterprise-grade encryption, access controls, and full compliance with SOC 2, GDPR, and CCPA.",
+      "targetKeyword": "security compliance",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944967_el0ie",
+      "firstSeenAt": "2026-10-26T15:19:04.967Z",
+      "url": "https://zapier.com/early-access",
+      "title": "Build the future of automation | Zapier",
+      "publishDate": "2026-10-26T15:19:02.214Z",
+      "metaDescription": "Join Zapier's Early Access program to get access to tomorrow's no-code automation products and features.",
+      "targetKeyword": "early access",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944967_1j2z7",
+      "firstSeenAt": "2026-10-26T15:19:04.967Z",
+      "url": "https://zapier.com/solutions/revops-automation",
+      "title": "RevOps automation solutions | Zapier",
+      "publishDate": "2026-10-26T15:19:02.563Z",
+      "metaDescription": "Sync your fragmented tech stack using RevOps automation with Zapier. Seamlessly connect all your favorite tools and streamline your GTM operations.",
+      "targetKeyword": "revops automation",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944968_3dul7",
+      "firstSeenAt": "2026-10-26T15:19:04.968Z",
+      "url": "https://zapier.com/solutions/marketing",
+      "title": "Marketing automation solutions | Zapier",
+      "publishDate": "2026-10-26T15:19:02.961Z",
+      "metaDescription": "Seamlessly sync your disconnected tools and streamline your go-to-market operations using marketing automation from Zapier.",
+      "targetKeyword": "marketing",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944968_7ba6a",
+      "firstSeenAt": "2026-10-26T15:19:04.968Z",
+      "url": "https://zapier.com/solutions/it",
+      "title": "IT automation solutions | Zapier",
+      "publishDate": "2026-10-26T15:19:03.345Z",
+      "metaDescription": "Empower teams and streamline IT operations with Zapier's secure, no-code automation platform. Securely connect 9,000+ apps and reduce IT backlogs across your organization.",
+      "targetKeyword": "automation solutions",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944968_ug6mv",
+      "firstSeenAt": "2026-10-26T15:19:04.968Z",
+      "url": "https://zapier.com/solutions/hr",
+      "title": "Human Resources AI automation solutions | Zapier",
+      "publishDate": "2026-10-26T15:19:03.721Z",
+      "metaDescription": "Streamline hiring, onboarding, and employee operations with Zapier – the most connected AI orchestration platform. Automate repetitive HR tasks, connect your tools, and create better experiences across the entire employee journey.",
+      "targetKeyword": "human resources automation solutions",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944969_ss1ge",
+      "firstSeenAt": "2026-10-26T15:19:04.969Z",
+      "url": "https://zapier.com/solutions/sales",
+      "title": "Sales automation solutions | Zapier",
+      "publishDate": "2026-10-26T15:19:04.090Z",
+      "metaDescription": "Ditch tedious manual tasks so sales reps can focus on closing deals. Zapier connects your tools, automates busy work, and accelerates your sales pipeline.",
+      "targetKeyword": "sales",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944969_dw7og",
+      "firstSeenAt": "2026-10-26T15:19:04.969Z",
+      "url": "https://zapier.com/solutions/customer-support",
+      "title": "Automation solutions for customer support | Zapier",
+      "publishDate": "2026-10-26T15:19:04.468Z",
+      "metaDescription": "Automation-powered, AI-assisted, human-centric customer support. Unify your customer experience with Zapier.",
+      "targetKeyword": "customer support",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944970_bbkrf",
+      "firstSeenAt": "2026-10-26T15:19:04.970Z",
+      "url": "https://zapier.com/solutions/leaders",
+      "title": "Automation solutions for leaders | Zapier",
+      "publishDate": "2026-10-26T15:19:04.580Z",
+      "metaDescription": "Streamline your processes and hit your goals with automation. Close more deals, deliver the best customer experiences, and find operational efficiencies with Zapier.",
+      "targetKeyword": "leaders",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793027944970_d3fg6",
+      "firstSeenAt": "2026-10-26T15:19:04.970Z",
+      "url": "https://zapier.com/solutions/executive-assistants",
+      "title": "Zapier for Executive Assistants | Zapier",
+      "publishDate": "2026-10-26T15:19:04.949Z",
+      "metaDescription": "Discover real-world workflows and free templates that empower Executive Assistants to save time, reduce chaos, and become stronger strategic partners to their execs.",
+      "targetKeyword": "executive assistants",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 500,
+      "cpc": 1.2,
+      "competition": "MEDIUM",
+      "keywordSource": "Baseline Default",
+      "isBaseline": true,
+      "runId": "run_1793027936251_cj7k2"
+    },
+    {
+      "id": "post_1793032598586_54ekh",
+      "firstSeenAt": "2026-10-26T16:36:38.586Z",
+      "url": "https://zapier.com/blog/what-you-should-automate",
+      "title": "5 systems you should automate today",
+      "publishDate": "2020-02-10T18:30:00.000Z",
+      "metaDescription": "These five systems are ripe for automation—and we've got secure, AI-powered templates and pro tips to help you automate them in minutes.",
+      "targetKeyword": "what you should automate",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 700,
+      "cpc": 1.45,
+      "competition": "MEDIUM",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": false,
+      "runId": "run_1793032579065_u6tg7"
+    },
+    {
+      "id": "post_1793032598587_5oxxs",
+      "firstSeenAt": "2026-10-26T16:36:38.587Z",
+      "url": "https://zapier.com/blog/create-custom-ai-chatbots-with-interfaces",
+      "title": "How to create a custom AI chatbot with Zapier Chatbots",
+      "publishDate": "2023-04-19T18:30:00.000Z",
+      "metaDescription": "Zapier gives you the ability to create custom web pages and apps that can also pull in the power of GPT with a chatbot component. Learn how to create your own.",
+      "targetKeyword": "create custom ai chatbots with",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 610,
+      "cpc": 5.3,
+      "competition": "HIGH",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": false,
+      "runId": "run_1793032579065_u6tg7"
+    },
+    {
+      "id": "post_1793032598588_o8dup",
+      "firstSeenAt": "2026-10-26T16:36:38.588Z",
+      "url": "https://zapier.com/blog/get-started-with-zapier",
+      "title": "Get started with Zapier",
+      "publishDate": "2025-05-28T18:30:00.000Z",
+      "metaDescription": "Zapier is the AI orchestration layer that bonds your tools together, giving you the ability to create AI-powered systems with enterprise-grade security.",
+      "targetKeyword": "get started with zapier",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 970,
+      "cpc": 3.45,
+      "competition": "MEDIUM",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": false,
+      "runId": "run_1793032579065_u6tg7"
+    },
+    {
+      "id": "post_1793032598589_vh0x5",
+      "firstSeenAt": "2026-10-26T16:36:38.589Z",
+      "url": "https://zapier.com/blog/what-are-webhooks",
+      "title": "What are webhooks?",
+      "publishDate": "2018-03-28T18:30:00.000Z",
+      "metaDescription": "You might have seen webhooks mentioned in your apps' settings and wondered if they're something you should use. The answer, in a nutshell, is probably yes.",
+      "targetKeyword": "what are webhooks",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 1890,
+      "cpc": 4.25,
+      "competition": "MEDIUM",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": false,
+      "runId": "run_1793032579065_u6tg7"
+    },
+    {
+      "id": "post_1793032598590_1ujo7",
+      "firstSeenAt": "2026-10-26T16:36:38.590Z",
+      "url": "https://zapier.com/blog/ai-orchestration",
+      "title": "What is AI orchestration? A guide to intelligent systems",
+      "publishDate": "2025-07-16T18:30:00.000Z",
+      "metaDescription": "AI orchestration is the practice of coordinating a business's artificial intelligence-related tools, models, data, and workflows to work together as a unified whole.",
+      "targetKeyword": "ai orchestration",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 4730,
+      "cpc": 6.5,
+      "competition": "HIGH",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": false,
+      "runId": "run_1793032579065_u6tg7"
+    },
+    {
+      "id": "post_1793032598590_u5el8",
+      "firstSeenAt": "2026-10-26T16:36:38.590Z",
+      "url": "https://zapier.com/blog/zapier-copilot-guide",
+      "title": "Zapier Copilot: Build multi-product systems with an AI assistant",
+      "publishDate": "2024-05-06T18:30:00.000Z",
+      "metaDescription": "Discover how Zapier's built-in AI tool can help you create automated systems—no coding experience required.",
+      "targetKeyword": "zapier copilot guide",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 1330,
+      "cpc": 3.75,
+      "competition": "MEDIUM",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": false,
+      "runId": "run_1793032579065_u6tg7"
+    },
+    {
+      "id": "post_1793032598591_60rua",
+      "firstSeenAt": "2026-10-26T16:36:38.591Z",
+      "url": "https://zapier.com/blog/zapier-ai-guide",
+      "title": "Zapier's AI tools: Get to know our governed AI products and features",
+      "publishDate": "2024-05-06T18:30:00.000Z",
+      "metaDescription": "Planning your next AI-powered build is easier when you know what you have to work with. Peek inside for a look at the AI tools available in Zapier today.",
+      "targetKeyword": "zapier ai guide",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 2120,
+      "cpc": 4.1,
+      "competition": "HIGH",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": false,
+      "runId": "run_1793032579065_u6tg7"
+    },
+    {
+      "id": "post_1793032598592_70en4",
+      "firstSeenAt": "2026-10-26T16:36:38.592Z",
+      "url": "https://zapier.com/blog/zapier-mcp-guide",
+      "title": "Zapier MCP: Perform tens of thousands of actions in your AI tool",
+      "publishDate": "2025-04-02T18:30:00.000Z",
+      "metaDescription": "The fastest way to let your AI interact with thousands of apps. No complex API integrations required.",
+      "targetKeyword": "zapier mcp guide",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "searchVolume": 1300,
+      "cpc": 1.55,
+      "competition": "MEDIUM",
+      "keywordSource": "Algorithmic Heuristic",
+      "keywordApiNotice": "No API key provided. Using built-in SEO volume estimation engine.",
+      "isBaseline": false,
+      "runId": "run_1793032579065_u6tg7"
+    }
+  ],
+  "pricingSnapshots": [
+    {
+      "id": "price_1793027832859_81pvx",
+      "snapshotTime": "2026-10-26T15:17:12.859Z",
+      "competitorId": "comp_1793027824532_3owec",
+      "domain": "linear.app",
+      "pricingUrl": "https://linear.app/pricing",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0",
+          "features": [
+            "Unlimited members",
+            "2 teams",
+            "250 issues",
+            "Agent platform",
+            "Linear Agent"
+          ]
+        },
+        {
+          "name": "Basic",
+          "price": "$10 per user/month$10 per user/month$10 per user/month",
+          "features": [
+            "All Free features +",
+            "5 teams",
+            "Unlimited issues",
+            "Unlimited file uploads",
+            "Admin roles",
+            "Loops"
+          ]
+        },
+        {
+          "name": "Business",
+          "price": "$16 per user/month$16 per user/month$16 per user/month",
+          "features": [
+            "All Basic features +",
+            "Unlimited teams",
+            "Private teams and guests",
+            "Triage Intelligence",
+            "Code Intelligence",
+            "Linear Insights"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": "Custom",
+          "features": [
+            "All Business features +",
+            "Invoice/PO billing",
+            "SAML and SCIM",
+            "Granular admin controls",
+            "Enterprise-grade security",
+            "Advanced org modeling"
+          ]
+        }
+      ],
+      "rawHash": "74e4e94c8e55c491",
+      "plansCount": 4,
+      "hasChanged": false,
+      "changes": []
+    },
+    {
+      "id": "price_1793027945439_3mv2o",
+      "snapshotTime": "2026-10-26T15:19:05.439Z",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "pricingUrl": "https://zapier.com/pricing",
+      "plans": [
+        {
+          "name": "Shared task pool",
+          "price": "Contact Sales",
+          "features": []
+        },
+        {
+          "name": "Scales with how you build",
+          "price": "Contact Sales",
+          "features": []
+        }
+      ],
+      "rawHash": "194d4a12217aa918",
+      "plansCount": 2,
+      "hasChanged": false,
+      "changes": []
+    },
+    {
+      "id": "price_1793032598873_i7iwh",
+      "snapshotTime": "2026-10-26T16:36:38.873Z",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "pricingUrl": "https://zapier.com/pricing",
+      "plans": [
+        {
+          "name": "Shared task pool",
+          "price": "Contact Sales",
+          "features": []
+        },
+        {
+          "name": "Scales with how you build",
+          "price": "Contact Sales",
+          "features": []
+        }
+      ],
+      "rawHash": "194d4a12217aa918",
+      "plansCount": 2,
+      "hasChanged": false,
+      "changes": []
+    },
+    {
+      "id": "price_1793033035167_3wjby",
+      "snapshotTime": "2026-10-26T16:43:55.167Z",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "pricingUrl": "https://zapier.com/pricing",
+      "plans": [
+        {
+          "name": "Shared task pool",
+          "price": "Contact Sales",
+          "features": []
+        },
+        {
+          "name": "Scales with how you build",
+          "price": "Contact Sales",
+          "features": []
+        }
+      ],
+      "rawHash": "194d4a12217aa918",
+      "plansCount": 2,
+      "hasChanged": false,
+      "changes": []
+    },
+    {
+      "id": "price_1793037463922_zk1ug",
+      "snapshotTime": "2026-10-26T17:57:43.922Z",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "pricingUrl": "https://zapier.com/pricing",
+      "plans": [
+        {
+          "name": "Shared task pool",
+          "price": "Contact Sales",
+          "features": []
+        },
+        {
+          "name": "Scales with how you build",
+          "price": "Contact Sales",
+          "features": []
+        }
+      ],
+      "rawHash": "194d4a12217aa918",
+      "plansCount": 2,
+      "hasChanged": false,
+      "changes": []
+    },
+    {
+      "id": "price_1793039088623_cin8c",
+      "snapshotTime": "2026-10-26T18:24:48.623Z",
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "pricingUrl": "https://zapier.com/pricing",
+      "plans": [
+        {
+          "name": "Shared task pool",
+          "price": "Contact Sales",
+          "features": []
+        },
+        {
+          "name": "Scales with how you build",
+          "price": "Contact Sales",
+          "features": []
+        }
+      ],
+      "rawHash": "194d4a12217aa918",
+      "plansCount": 2,
+      "hasChanged": false,
+      "changes": []
+    }
+  ],
+  "scanRuns": [
+    {
+      "id": "run_1793039068625_xv243",
+      "startedAt": "2026-10-26T18:24:28.625Z",
+      "logs": [
+        {
+          "message": "Scan started for zapier.com. Mode: Differential Monitoring (Run 2+)",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:28.631Z"
+        },
+        {
+          "message": "Initiating crawl for zapier.com",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:28.634Z"
+        },
+        {
+          "message": "Checking homepage at https://zapier.com",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:28.635Z"
+        },
+        {
+          "message": "Checking RSS/Atom feed: https://zapier.com/feed",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:28.997Z"
+        },
+        {
+          "message": "Checking RSS/Atom feed: https://zapier.com/blog/feed",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:29.442Z"
+        },
+        {
+          "message": "Found 25 recent articles via feed",
+          "level": "success",
+          "timestamp": "2026-10-26T18:24:31.358Z"
+        },
+        {
+          "message": "Scanning blog listing: https://zapier.com/blog/what-you-should-automate",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:31.360Z"
+        },
+        {
+          "message": "Verifying 10 candidate article pages...",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:33.517Z"
+        },
+        {
+          "message": "Verified article: \"5 systems you should automate today\"",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:35.489Z"
+        },
+        {
+          "message": "Verified article: \"How to create a custom AI chatbot with Zapier Chatbots\"",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:37.220Z"
+        },
+        {
+          "message": "Excluded non-blog page: https://zapier.com/resources/guides",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:37.569Z"
+        },
+        {
+          "message": "Excluded non-blog page: https://zapier.com/resources/events",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:37.966Z"
+        },
+        {
+          "message": "Verified article: \"Get started with Zapier\"",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:39.707Z"
+        },
+        {
+          "message": "Verified article: \"What are webhooks?\"",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:41.370Z"
+        },
+        {
+          "message": "Verified article: \"What is AI orchestration? A guide to intelligent systems\"",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:43.066Z"
+        },
+        {
+          "message": "Verified article: \"Zapier Copilot: Build multi-product systems with an AI assistant\"",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:44.737Z"
+        },
+        {
+          "message": "Verified article: \"Zapier's AI tools: Get to know our governed AI products and features\"",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:46.012Z"
+        },
+        {
+          "message": "Verified article: \"Zapier MCP: Perform tens of thousands of actions in your AI tool\"",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:47.765Z"
+        },
+        {
+          "message": "Completed: 33 articles tracked for zapier.com",
+          "level": "success",
+          "timestamp": "2026-10-26T18:24:47.766Z"
+        },
+        {
+          "message": "Comparing 33 scraped posts against existing database...",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:47.766Z"
+        },
+        {
+          "message": "Differential check: Found 0 NEW post(s) since last check! (33 previously tracked).",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:47.767Z"
+        },
+        {
+          "message": "Enriching 0 post(s) with keyword volume data...",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:47.769Z"
+        },
+        {
+          "message": "Checking competitor pricing page for updates...",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:47.778Z"
+        },
+        {
+          "message": "Pricing check completed: No pricing changes detected",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:48.627Z"
+        },
+        {
+          "message": "No new posts or pricing modifications found. No alert needed.",
+          "level": "info",
+          "timestamp": "2026-10-26T18:24:48.629Z"
+        }
+      ],
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "status": "COMPLETED",
+      "isFirstRun": false,
+      "postsFound": 33,
+      "newPostsCount": 0,
+      "pricingChanged": false,
+      "alertSent": false,
+      "completedAt": "2026-10-26T18:24:48.636Z"
+    },
+    {
+      "id": "run_1793037443522_r31s4",
+      "startedAt": "2026-10-26T17:57:23.522Z",
+      "logs": [
+        {
+          "message": "Scan started for zapier.com. Mode: Differential Monitoring (Run 2+)",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:23.525Z"
+        },
+        {
+          "message": "Initiating crawl for zapier.com",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:23.528Z"
+        },
+        {
+          "message": "Checking homepage at https://zapier.com",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:23.530Z"
+        },
+        {
+          "message": "Checking RSS/Atom feed: https://zapier.com/feed",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:23.804Z"
+        },
+        {
+          "message": "Checking RSS/Atom feed: https://zapier.com/blog/feed",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:24.651Z"
+        },
+        {
+          "message": "Found 25 recent articles via feed",
+          "level": "success",
+          "timestamp": "2026-10-26T17:57:26.617Z"
+        },
+        {
+          "message": "Scanning blog listing: https://zapier.com/blog/what-you-should-automate",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:26.619Z"
+        },
+        {
+          "message": "Verifying 10 candidate article pages...",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:28.276Z"
+        },
+        {
+          "message": "Verified article: \"5 systems you should automate today\"",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:30.400Z"
+        },
+        {
+          "message": "Verified article: \"How to create a custom AI chatbot with Zapier Chatbots\"",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:32.090Z"
+        },
+        {
+          "message": "Excluded non-blog page: https://zapier.com/resources/guides",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:32.682Z"
+        },
+        {
+          "message": "Excluded non-blog page: https://zapier.com/resources/events",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:33.350Z"
+        },
+        {
+          "message": "Verified article: \"Get started with Zapier\"",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:35.066Z"
+        },
+        {
+          "message": "Verified article: \"What are webhooks?\"",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:36.741Z"
+        },
+        {
+          "message": "Verified article: \"What is AI orchestration? A guide to intelligent systems\"",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:38.527Z"
+        },
+        {
+          "message": "Verified article: \"Zapier Copilot: Build multi-product systems with an AI assistant\"",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:40.247Z"
+        },
+        {
+          "message": "Verified article: \"Zapier's AI tools: Get to know our governed AI products and features\"",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:41.915Z"
+        },
+        {
+          "message": "Verified article: \"Zapier MCP: Perform tens of thousands of actions in your AI tool\"",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:43.695Z"
+        },
+        {
+          "message": "Completed: 33 articles tracked for zapier.com",
+          "level": "success",
+          "timestamp": "2026-10-26T17:57:43.695Z"
+        },
+        {
+          "message": "Comparing 33 scraped posts against existing database...",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:43.696Z"
+        },
+        {
+          "message": "Differential check: Found 0 NEW post(s) since last check! (33 previously tracked).",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:43.696Z"
+        },
+        {
+          "message": "Enriching 0 post(s) with keyword volume data...",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:43.697Z"
+        },
+        {
+          "message": "Checking competitor pricing page for updates...",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:43.698Z"
+        },
+        {
+          "message": "Pricing check completed: No pricing changes detected",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:43.923Z"
+        },
+        {
+          "message": "No new posts or pricing modifications found. No alert needed.",
+          "level": "info",
+          "timestamp": "2026-10-26T17:57:43.925Z"
+        }
+      ],
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "status": "COMPLETED",
+      "isFirstRun": false,
+      "postsFound": 33,
+      "newPostsCount": 0,
+      "pricingChanged": false,
+      "alertSent": false,
+      "completedAt": "2026-10-26T17:57:43.928Z"
+    },
+    {
+      "id": "run_1793033015061_ak14x",
+      "startedAt": "2026-10-26T16:43:35.062Z",
+      "logs": [
+        {
+          "message": "Scan started for zapier.com. Mode: Differential Monitoring (Run 2+)",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:35.065Z"
+        },
+        {
+          "message": "Initiating crawl for zapier.com",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:35.066Z"
+        },
+        {
+          "message": "Checking homepage at https://zapier.com",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:35.067Z"
+        },
+        {
+          "message": "Checking RSS/Atom feed: https://zapier.com/feed",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:35.335Z"
+        },
+        {
+          "message": "Checking RSS/Atom feed: https://zapier.com/blog/feed",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:35.699Z"
+        },
+        {
+          "message": "Found 25 recent articles via feed",
+          "level": "success",
+          "timestamp": "2026-10-26T16:43:37.789Z"
+        },
+        {
+          "message": "Scanning blog listing: https://zapier.com/blog/what-you-should-automate",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:37.791Z"
+        },
+        {
+          "message": "Verifying 10 candidate article pages...",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:40.102Z"
+        },
+        {
+          "message": "Verified article: \"5 systems you should automate today\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:42.110Z"
+        },
+        {
+          "message": "Verified article: \"How to create a custom AI chatbot with Zapier Chatbots\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:43.815Z"
+        },
+        {
+          "message": "Excluded non-blog page: https://zapier.com/resources/guides",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:44.186Z"
+        },
+        {
+          "message": "Excluded non-blog page: https://zapier.com/resources/events",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:44.588Z"
+        },
+        {
+          "message": "Verified article: \"Get started with Zapier\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:46.447Z"
+        },
+        {
+          "message": "Verified article: \"What are webhooks?\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:48.169Z"
+        },
+        {
+          "message": "Verified article: \"What is AI orchestration? A guide to intelligent systems\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:49.881Z"
+        },
+        {
+          "message": "Verified article: \"Zapier Copilot: Build multi-product systems with an AI assistant\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:51.804Z"
+        },
+        {
+          "message": "Verified article: \"Zapier's AI tools: Get to know our governed AI products and features\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:53.144Z"
+        },
+        {
+          "message": "Verified article: \"Zapier MCP: Perform tens of thousands of actions in your AI tool\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:54.910Z"
+        },
+        {
+          "message": "Completed: 33 articles tracked for zapier.com",
+          "level": "success",
+          "timestamp": "2026-10-26T16:43:54.911Z"
+        },
+        {
+          "message": "Comparing 33 scraped posts against existing database...",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:54.911Z"
+        },
+        {
+          "message": "Differential check: Found 0 NEW post(s) since last check! (33 previously tracked).",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:54.912Z"
+        },
+        {
+          "message": "Enriching 0 post(s) with keyword volume data...",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:54.912Z"
+        },
+        {
+          "message": "Checking competitor pricing page for updates...",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:54.913Z"
+        },
+        {
+          "message": "Pricing check completed: No pricing changes detected",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:55.168Z"
+        },
+        {
+          "message": "No new posts or pricing modifications found. No alert needed.",
+          "level": "info",
+          "timestamp": "2026-10-26T16:43:55.168Z"
+        }
+      ],
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "status": "COMPLETED",
+      "isFirstRun": false,
+      "postsFound": 33,
+      "newPostsCount": 0,
+      "pricingChanged": false,
+      "alertSent": false,
+      "completedAt": "2026-10-26T16:43:55.169Z"
+    },
+    {
+      "id": "run_1793032579065_u6tg7",
+      "startedAt": "2026-10-26T16:36:19.066Z",
+      "logs": [
+        {
+          "message": "Scan started for zapier.com. Mode: Differential Monitoring (Run 2+)",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:19.072Z"
+        },
+        {
+          "message": "Initiating crawl for zapier.com",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:19.073Z"
+        },
+        {
+          "message": "Checking homepage at https://zapier.com",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:19.074Z"
+        },
+        {
+          "message": "Checking RSS/Atom feed: https://zapier.com/feed",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:19.354Z"
+        },
+        {
+          "message": "Checking RSS/Atom feed: https://zapier.com/blog/feed",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:19.711Z"
+        },
+        {
+          "message": "Found 25 recent articles via feed",
+          "level": "success",
+          "timestamp": "2026-10-26T16:36:21.635Z"
+        },
+        {
+          "message": "Scanning blog listing: https://zapier.com/blog/what-you-should-automate",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:21.636Z"
+        },
+        {
+          "message": "Verifying 10 candidate article pages...",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:23.668Z"
+        },
+        {
+          "message": "Verified article: \"5 systems you should automate today\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:25.829Z"
+        },
+        {
+          "message": "Verified article: \"How to create a custom AI chatbot with Zapier Chatbots\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:27.591Z"
+        },
+        {
+          "message": "Excluded non-blog page: https://zapier.com/resources/guides",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:27.959Z"
+        },
+        {
+          "message": "Excluded non-blog page: https://zapier.com/resources/events",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:28.355Z"
+        },
+        {
+          "message": "Verified article: \"Get started with Zapier\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:30.072Z"
+        },
+        {
+          "message": "Verified article: \"What are webhooks?\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:31.749Z"
+        },
+        {
+          "message": "Verified article: \"What is AI orchestration? A guide to intelligent systems\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:33.456Z"
+        },
+        {
+          "message": "Verified article: \"Zapier Copilot: Build multi-product systems with an AI assistant\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:35.148Z"
+        },
+        {
+          "message": "Verified article: \"Zapier's AI tools: Get to know our governed AI products and features\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:36.876Z"
+        },
+        {
+          "message": "Verified article: \"Zapier MCP: Perform tens of thousands of actions in your AI tool\"",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.582Z"
+        },
+        {
+          "message": "Completed: 33 articles tracked for zapier.com",
+          "level": "success",
+          "timestamp": "2026-10-26T16:36:38.583Z"
+        },
+        {
+          "message": "Comparing 33 scraped posts against existing database...",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.584Z"
+        },
+        {
+          "message": "Differential check: Found 8 NEW post(s) since last check! (25 previously tracked).",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.584Z"
+        },
+        {
+          "message": "Enriching 8 post(s) with keyword volume data...",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.584Z"
+        },
+        {
+          "message": "Post enriched: \"5 systems you should automate today...\" -> Keyword: [what you should automate] Vol: 700/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.586Z"
+        },
+        {
+          "message": "Post enriched: \"How to create a custom AI chatbot with Z...\" -> Keyword: [create custom ai chatbots with] Vol: 610/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.587Z"
+        },
+        {
+          "message": "Post enriched: \"Get started with Zapier...\" -> Keyword: [get started with zapier] Vol: 970/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.588Z"
+        },
+        {
+          "message": "Post enriched: \"What are webhooks?...\" -> Keyword: [what are webhooks] Vol: 1890/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.589Z"
+        },
+        {
+          "message": "Post enriched: \"What is AI orchestration? A guide to int...\" -> Keyword: [ai orchestration] Vol: 4730/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.590Z"
+        },
+        {
+          "message": "Post enriched: \"Zapier Copilot: Build multi-product syst...\" -> Keyword: [zapier copilot guide] Vol: 1330/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.591Z"
+        },
+        {
+          "message": "Post enriched: \"Zapier's AI tools: Get to know our gover...\" -> Keyword: [zapier ai guide] Vol: 2120/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.592Z"
+        },
+        {
+          "message": "Post enriched: \"Zapier MCP: Perform tens of thousands of...\" -> Keyword: [zapier mcp guide] Vol: 1300/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.593Z"
+        },
+        {
+          "message": "Checking competitor pricing page for updates...",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.593Z"
+        },
+        {
+          "message": "Pricing check completed: No pricing changes detected",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.873Z"
+        },
+        {
+          "message": "Dispatching alerts for zapier.com (8 posts, pricing changed: false)...",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.874Z"
+        },
+        {
+          "message": "Slack alert: Slack webhook URL not set in Settings. Alert logged to dashboard.",
+          "level": "warn",
+          "timestamp": "2026-10-26T16:36:38.915Z"
+        },
+        {
+          "message": "Email alert: Email digest generated and stored in Alert History.",
+          "level": "info",
+          "timestamp": "2026-10-26T16:36:38.916Z"
+        }
+      ],
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "status": "COMPLETED",
+      "isFirstRun": false,
+      "postsFound": 33,
+      "newPostsCount": 8,
+      "pricingChanged": false,
+      "alertSent": true,
+      "completedAt": "2026-10-26T16:36:38.917Z"
+    },
+    {
+      "id": "run_1793032515906_3y4jk",
+      "startedAt": "2026-10-26T16:35:15.906Z",
+      "logs": [
+        {
+          "message": "Scan started for medium.com. Mode: Baseline Setup (Run 1)",
+          "level": "info",
+          "timestamp": "2026-10-26T16:35:15.906Z"
+        },
+        {
+          "message": "Initiating crawl for medium.com",
+          "level": "info",
+          "timestamp": "2026-10-26T16:35:15.907Z"
+        },
+        {
+          "message": "Checking homepage at https://medium.com",
+          "level": "info",
+          "timestamp": "2026-10-26T16:35:15.908Z"
+        },
+        {
+          "message": "HTTPS fetch returned 403. Trying HTTP fallback...",
+          "level": "warn",
+          "timestamp": "2026-10-26T16:35:16.079Z"
+        },
+        {
+          "message": "Access restricted by medium.com (Cloudflare Bot Protection (Challenge / Ray ID))",
+          "level": "error",
+          "timestamp": "2026-10-26T16:35:16.130Z"
+        }
+      ],
+      "competitorId": "comp_1793032515903_x6itt",
+      "domain": "medium.com",
+      "status": "FAILED",
+      "isFirstRun": true,
+      "error": "Access restricted by target site (Cloudflare Bot Protection (Challenge / Ray ID))",
+      "completedAt": "2026-10-26T16:35:16.131Z"
+    },
+    {
+      "id": "run_1793027936251_cj7k2",
+      "startedAt": "2026-10-26T15:18:56.251Z",
+      "logs": [
+        {
+          "message": "Scan started for zapier.com. Mode: Baseline Setup (Run 1)",
+          "level": "info",
+          "timestamp": "2026-10-26T15:18:56.252Z"
+        },
+        {
+          "message": "🚀 Initiating crawl for domain: zapier.com",
+          "level": "info",
+          "timestamp": "2026-10-26T15:18:56.253Z"
+        },
+        {
+          "message": "Fetching homepage: https://zapier.com",
+          "level": "info",
+          "timestamp": "2026-10-26T15:18:56.254Z"
+        },
+        {
+          "message": "Analyzing homepage structure for blog links and feeds...",
+          "level": "info",
+          "timestamp": "2026-10-26T15:18:57.120Z"
+        },
+        {
+          "message": "Blog targets identified (28 candidates). Feeds: 11 candidates.",
+          "level": "info",
+          "timestamp": "2026-10-26T15:18:57.125Z"
+        },
+        {
+          "message": "Checking RSS/Atom feed: https://zapier.com/feed",
+          "level": "info",
+          "timestamp": "2026-10-26T15:18:57.126Z"
+        },
+        {
+          "message": "Checking RSS/Atom feed: https://zapier.com/blog/feed",
+          "level": "info",
+          "timestamp": "2026-10-26T15:18:57.471Z"
+        },
+        {
+          "message": "Found 25 recent articles via feed: https://zapier.com/blog/feed",
+          "level": "success",
+          "timestamp": "2026-10-26T15:18:59.465Z"
+        },
+        {
+          "message": "Crawling blog listing page: https://zapier.com/blog/what-you-should-automate",
+          "level": "info",
+          "timestamp": "2026-10-26T15:18:59.467Z"
+        },
+        {
+          "message": "Extracted 162 article links from https://zapier.com/blog/what-you-should-automate",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:01.457Z"
+        },
+        {
+          "message": "Deep crawling 10 article pages for full metadata...",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:01.458Z"
+        },
+        {
+          "message": "Scraped article: \"Zapier | Secure and Compliant AI Orchestration at Scale\"",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:01.804Z"
+        },
+        {
+          "message": "Scraped article: \"Build the future of automation | Zapier\"",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:02.214Z"
+        },
+        {
+          "message": "Scraped article: \"RevOps automation solutions | Zapier\"",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:02.564Z"
+        },
+        {
+          "message": "Scraped article: \"Marketing automation solutions | Zapier\"",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:02.962Z"
+        },
+        {
+          "message": "Scraped article: \"IT automation solutions | Zapier\"",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:03.346Z"
+        },
+        {
+          "message": "Scraped article: \"Human Resources AI automation solutions | Zapier\"",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:03.722Z"
+        },
+        {
+          "message": "Scraped article: \"Sales automation solutions | Zapier\"",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:04.091Z"
+        },
+        {
+          "message": "Scraped article: \"Automation solutions for customer support | Zapier\"",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:04.469Z"
+        },
+        {
+          "message": "Scraped article: \"Automation solutions for leaders | Zapier\"",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:04.581Z"
+        },
+        {
+          "message": "Scraped article: \"Zapier for Executive Assistants | Zapier\"",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:04.949Z"
+        },
+        {
+          "message": "Successfully extracted 35 posts for zapier.com!",
+          "level": "success",
+          "timestamp": "2026-10-26T15:19:04.951Z"
+        },
+        {
+          "message": "Comparing 35 scraped posts against existing database...",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:04.951Z"
+        },
+        {
+          "message": "First run: Established baseline with 35 existing posts.",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:04.952Z"
+        },
+        {
+          "message": "Enriching 5 post(s) with keyword volume data...",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:04.952Z"
+        },
+        {
+          "message": "Post enriched: \"The 5 best Pomodoro timer apps in 2026...\" -> Keyword: [competitor intelligence] Vol: 3840/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:04.954Z"
+        },
+        {
+          "message": "Post enriched: \"The 7 best AI agents in 2026...\" -> Keyword: [competitor intelligence] Vol: 3840/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:04.954Z"
+        },
+        {
+          "message": "Post enriched: \"Google Forms vs. Jotform: Which should y...\" -> Keyword: [competitor intelligence] Vol: 3840/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:04.956Z"
+        },
+        {
+          "message": "Post enriched: \"Obsidian vs. Notion: Which is best? [202...\" -> Keyword: [competitor intelligence] Vol: 3840/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:04.957Z"
+        },
+        {
+          "message": "Post enriched: \"What is Slack? And what is it used for?...\" -> Keyword: [competitor intelligence] Vol: 3840/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:04.958Z"
+        },
+        {
+          "message": "Checking competitor pricing page for updates...",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:04.971Z"
+        },
+        {
+          "message": "Pricing check completed: Initial pricing baseline established",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:05.439Z"
+        },
+        {
+          "message": "First run baseline saved (35 posts). Alerts are reserved for newly published posts on subsequent checks.",
+          "level": "info",
+          "timestamp": "2026-10-26T15:19:05.440Z"
+        }
+      ],
+      "competitorId": "comp_1793027936249_2m6y6",
+      "domain": "zapier.com",
+      "status": "COMPLETED",
+      "isFirstRun": true,
+      "postsFound": 35,
+      "newPostsCount": 0,
+      "pricingChanged": false,
+      "alertSent": false,
+      "completedAt": "2026-10-26T15:19:05.440Z"
+    },
+    {
+      "id": "run_1793027919637_edrtz",
+      "startedAt": "2026-10-26T15:18:39.637Z",
+      "logs": [
+        {
+          "message": "Scan started for github. blog. Mode: Baseline Setup (Run 1)",
+          "level": "info",
+          "timestamp": "2026-10-26T15:18:39.637Z"
+        },
+        {
+          "message": "🚀 Initiating crawl for domain: github. blog",
+          "level": "info",
+          "timestamp": "2026-10-26T15:18:39.638Z"
+        },
+        {
+          "message": "Fetching homepage: https://github. blog",
+          "level": "info",
+          "timestamp": "2026-10-26T15:18:39.639Z"
+        },
+        {
+          "message": "HTTPS fetch returned Invalid URL. Attempting HTTP fallback...",
+          "level": "warn",
+          "timestamp": "2026-10-26T15:18:39.652Z"
+        },
+        {
+          "message": "Failed to connect to github. blog: Invalid URL",
+          "level": "error",
+          "timestamp": "2026-10-26T15:18:39.658Z"
+        }
+      ],
+      "competitorId": "comp_1793027919629_cctrl",
+      "domain": "github. blog",
+      "status": "FAILED",
+      "isFirstRun": true,
+      "error": "Could not reach github. blog: Invalid URL",
+      "completedAt": "2026-10-26T15:18:39.659Z"
+    },
+    {
+      "id": "run_1793027824534_ku8wr",
+      "startedAt": "2026-10-26T15:17:04.534Z",
+      "logs": [
+        {
+          "message": "Scan started for linear.app. Mode: Baseline Setup (Run 1)",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:04.535Z"
+        },
+        {
+          "message": "🚀 Initiating crawl for domain: linear.app",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:04.536Z"
+        },
+        {
+          "message": "Fetching homepage: https://linear.app",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:04.536Z"
+        },
+        {
+          "message": "Analyzing homepage structure for blog links and feeds...",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:05.673Z"
+        },
+        {
+          "message": "Blog targets identified (1 candidates). Feeds: 11 candidates.",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:05.679Z"
+        },
+        {
+          "message": "Checking RSS/Atom feed: https://linear.app/feed",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:05.679Z"
+        },
+        {
+          "message": "Checking RSS/Atom feed: https://linear.app/blog/feed",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:05.750Z"
+        },
+        {
+          "message": "Checking RSS/Atom feed: https://linear.app/rss.xml",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:06.971Z"
+        },
+        {
+          "message": "Checking RSS/Atom feed: https://linear.app/blog/rss.xml",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:07.044Z"
+        },
+        {
+          "message": "Crawling blog listing page: https://linear.app/insights",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:08.306Z"
+        },
+        {
+          "message": "Extracted 5 article links from https://linear.app/insights",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:08.906Z"
+        },
+        {
+          "message": "Deep crawling 5 article pages for full metadata...",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:08.907Z"
+        },
+        {
+          "message": "Scraped article: \"Mercury eliminated cluttered feedback with Linear Asks\"",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:09.429Z"
+        },
+        {
+          "message": "Scraped article: \"Talk to sales – Linear\"",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:10.007Z"
+        },
+        {
+          "message": "Scraped article: \"Coding Sessions – Linear\"",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:10.577Z"
+        },
+        {
+          "message": "Scraped article: \"Customer Requests – Linear\"",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:11.418Z"
+        },
+        {
+          "message": "Scraped article: \"Integrations – Linear\"",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:12.036Z"
+        },
+        {
+          "message": "Successfully extracted 5 posts for linear.app!",
+          "level": "success",
+          "timestamp": "2026-10-26T15:17:12.037Z"
+        },
+        {
+          "message": "Comparing 5 scraped posts against existing database...",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:12.037Z"
+        },
+        {
+          "message": "First run: Established baseline with 5 existing posts.",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:12.038Z"
+        },
+        {
+          "message": "Enriching 5 post(s) with keyword volume data...",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:12.038Z"
+        },
+        {
+          "message": "Post enriched: \"Mercury eliminated cluttered feedback wi...\" -> Keyword: [mercury] Vol: 8080/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:12.039Z"
+        },
+        {
+          "message": "Post enriched: \"Talk to sales – Linear...\" -> Keyword: [sales] Vol: 8160/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:12.040Z"
+        },
+        {
+          "message": "Post enriched: \"Coding Sessions – Linear...\" -> Keyword: [coding sessions] Vol: 3640/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:12.040Z"
+        },
+        {
+          "message": "Post enriched: \"Customer Requests – Linear...\" -> Keyword: [customer requests] Vol: 2920/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:12.041Z"
+        },
+        {
+          "message": "Post enriched: \"Integrations – Linear...\" -> Keyword: [integrations] Vol: 8760/mo (Source: Algorithmic Heuristic)",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:12.042Z"
+        },
+        {
+          "message": "Checking competitor pricing page for updates...",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:12.042Z"
+        },
+        {
+          "message": "Pricing check completed: Initial pricing baseline established",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:12.860Z"
+        },
+        {
+          "message": "First run baseline saved (5 posts). Alerts are reserved for newly published posts on subsequent checks.",
+          "level": "info",
+          "timestamp": "2026-10-26T15:17:12.860Z"
+        }
+      ],
+      "competitorId": "comp_1793027824532_3owec",
+      "domain": "linear.app",
+      "status": "COMPLETED",
+      "isFirstRun": true,
+      "postsFound": 5,
+      "newPostsCount": 0,
+      "pricingChanged": false,
+      "alertSent": false,
+      "completedAt": "2026-10-26T15:17:12.861Z"
+    }
+  ],
+  "alerts": [
+    {
+      "id": "alert_1793037492402_1mjy2",
+      "timestamp": "2026-10-26T17:58:12.402Z",
+      "type": "SLACK",
+      "competitorDomain": "demo-competitor.com",
+      "message": "DEMO-COMPETITOR.COM published 1 new post and updated their pricing!",
+      "payload": {
+        "text": "DEMO-COMPETITOR.COM published 1 new post and updated their pricing!",
+        "blocks": [
+          {
+            "type": "header",
+            "text": {
+              "type": "plain_text",
+              "text": "🎯 Competitor Alert: demo-competitor.com",
+              "emoji": true
+            }
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*DEMO-COMPETITOR.COM* published *1 new post* and updated their *pricing*!"
+            }
+          },
+          {
+            "type": "divider"
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*📰 Newly Published Articles (1)*"
+            }
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*1. <https://linear.app/blog/workflow-automation-2026|How Next-Gen Teams Automate Workflows in 2026>*\n📅 Published: _Oct 26, 2026_\n🎯 Keyword: `workflow automation` | 📈 Est. Vol: *4,400/mo* (CPC $3.4)\n📝 _Discover our updated guide on automating issue triaging, notifications, and team velocity._"
+            }
+          },
+          {
+            "type": "divider"
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*💳 Pricing Changes Detected:*\n• *PRICE_MODIFIED*: Pro Plan updated from $10/user/mo to $12/user/mo"
+            }
+          },
+          {
+            "type": "context",
+            "elements": [
+              {
+                "type": "mrkdwn",
+                "text": "Automated by Competitor Monitor • Mon, 26 Oct 2026 17:58:12 GMT"
+              }
+            ]
+          }
+        ]
+      },
+      "status": "SENT",
+      "note": "Successfully delivered to Slack."
+    },
+    {
+      "id": "alert_1793037429911_zd3pi",
+      "timestamp": "2026-10-26T17:57:09.911Z",
+      "type": "EMAIL",
+      "competitorDomain": "demo-competitor.com",
+      "message": "[Competitor Alert] DEMO-COMPETITOR.COM published 1 new post(s)",
+      "payload": {
+        "to": "not_configured",
+        "subject": "[Competitor Alert] DEMO-COMPETITOR.COM published 1 new post(s)",
+        "html": "\n    <!DOCTYPE html>\n    <html>\n    <head>\n      <meta charset=\"utf-8\">\n      <title>Competitor Alert: demo-competitor.com</title>\n    </head>\n    <body style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f8fafc; padding: 24px; margin: 0;\">\n      <div style=\"max-width: 640px; margin: 0 auto; background: #ffffff; border-radius: 12px; border: 1px solid #e2e8f0; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);\">\n        <div style=\"background: #0f172a; padding: 24px; color: #ffffff;\">\n          <span style=\"background: #3b82f6; font-size: 11px; text-transform: uppercase; font-weight: 700; padding: 3px 8px; border-radius: 4px; letter-spacing: 0.5px;\">Competitor Alert</span>\n          <h1 style=\"margin: 12px 0 4px 0; font-size: 22px;\">DEMO-COMPETITOR.COM</h1>\n          <p style=\"margin: 0; color: #94a3b8; font-size: 14px;\">\n            1 new article discovered\n             + Pricing Updates\n          </p>\n        </div>\n\n        <div style=\"padding: 24px;\">\n          <h2 style=\"font-size: 16px; color: #334155; margin: 0 0 16px 0;\">Recent Blog Posts</h2>\n    <div style=\"background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; margin-bottom: 14px;\">\n      <div style=\"font-size: 16px; font-weight: 700; color: #1e293b; margin-bottom: 6px;\">\n        1. <a href=\"https://linear.app/blog/workflow-automation-2026\" style=\"color: #2563eb; text-decoration: none;\" target=\"_blank\">How Next-Gen Teams Automate Workflows in 2026</a>\n      </div>\n      <div style=\"font-size: 12px; color: #64748b; margin-bottom: 8px;\">\n        📅 Published: <strong>10/26/2026</strong>\n        &nbsp;|&nbsp;\n        🎯 Keyword: <span style=\"background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-family: monospace;\">workflow automation</span>\n        &nbsp;|&nbsp;\n        📈 Search Volume: <strong style=\"color: #059669;\">4,400/mo</strong>\n        &nbsp;|&nbsp;\n        CPC: <strong>$3.4</strong>\n      </div>\n      <div style=\"font-size: 13px; color: #475569; line-height: 1.5;\">\n        Discover our updated guide on automating issue triaging, notifications, and team velocity.\n      </div>\n    </div>\n  \n          \n      <div style=\"background: #fef3c7; border: 1px solid #fde68a; border-radius: 8px; padding: 16px; margin-top: 20px;\">\n        <h3 style=\"margin: 0 0 10px 0; color: #92400e; font-size: 15px;\">💳 Pricing Changes Detected</h3>\n        <ul style=\"margin: 0; padding-left: 20px; color: #78350f; font-size: 13px; line-height: 1.6;\">\n          <li><strong>PRICE_MODIFIED:</strong> Pro Plan updated from $10/user/mo to $12/user/mo</li>\n        </ul>\n      </div>\n    \n        </div>\n\n        <div style=\"background: #f1f5f9; padding: 16px 24px; border-top: 1px solid #e2e8f0; font-size: 12px; color: #64748b; text-align: center;\">\n          Sent by Competitor Monitoring System • Generated at Mon, 26 Oct 2026 17:57:09 GMT\n        </div>\n      </div>\n    </body>\n    </html>\n  "
+      },
+      "status": "LOGGED_ONLY",
+      "note": "SMTP not configured. HTML email digest stored in dashboard."
+    },
+    {
+      "id": "alert_1793037420484_wym8w",
+      "timestamp": "2026-10-26T17:57:00.484Z",
+      "type": "EMAIL",
+      "competitorDomain": "demo-competitor.com",
+      "message": "[Competitor Alert] DEMO-COMPETITOR.COM published 1 new post(s)",
+      "payload": {
+        "to": "anuragk0819@gmail.com",
+        "subject": "[Competitor Alert] DEMO-COMPETITOR.COM published 1 new post(s)",
+        "html": "\n    <!DOCTYPE html>\n    <html>\n    <head>\n      <meta charset=\"utf-8\">\n      <title>Competitor Alert: demo-competitor.com</title>\n    </head>\n    <body style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f8fafc; padding: 24px; margin: 0;\">\n      <div style=\"max-width: 640px; margin: 0 auto; background: #ffffff; border-radius: 12px; border: 1px solid #e2e8f0; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);\">\n        <div style=\"background: #0f172a; padding: 24px; color: #ffffff;\">\n          <span style=\"background: #3b82f6; font-size: 11px; text-transform: uppercase; font-weight: 700; padding: 3px 8px; border-radius: 4px; letter-spacing: 0.5px;\">Competitor Alert</span>\n          <h1 style=\"margin: 12px 0 4px 0; font-size: 22px;\">DEMO-COMPETITOR.COM</h1>\n          <p style=\"margin: 0; color: #94a3b8; font-size: 14px;\">\n            1 new article discovered\n             + Pricing Updates\n          </p>\n        </div>\n\n        <div style=\"padding: 24px;\">\n          <h2 style=\"font-size: 16px; color: #334155; margin: 0 0 16px 0;\">Recent Blog Posts</h2>\n    <div style=\"background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; margin-bottom: 14px;\">\n      <div style=\"font-size: 16px; font-weight: 700; color: #1e293b; margin-bottom: 6px;\">\n        1. <a href=\"https://linear.app/blog/workflow-automation-2026\" style=\"color: #2563eb; text-decoration: none;\" target=\"_blank\">How Next-Gen Teams Automate Workflows in 2026</a>\n      </div>\n      <div style=\"font-size: 12px; color: #64748b; margin-bottom: 8px;\">\n        📅 Published: <strong>10/26/2026</strong>\n        &nbsp;|&nbsp;\n        🎯 Keyword: <span style=\"background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-family: monospace;\">workflow automation</span>\n        &nbsp;|&nbsp;\n        📈 Search Volume: <strong style=\"color: #059669;\">4,400/mo</strong>\n        &nbsp;|&nbsp;\n        CPC: <strong>$3.4</strong>\n      </div>\n      <div style=\"font-size: 13px; color: #475569; line-height: 1.5;\">\n        Discover our updated guide on automating issue triaging, notifications, and team velocity.\n      </div>\n    </div>\n  \n          \n      <div style=\"background: #fef3c7; border: 1px solid #fde68a; border-radius: 8px; padding: 16px; margin-top: 20px;\">\n        <h3 style=\"margin: 0 0 10px 0; color: #92400e; font-size: 15px;\">💳 Pricing Changes Detected</h3>\n        <ul style=\"margin: 0; padding-left: 20px; color: #78350f; font-size: 13px; line-height: 1.6;\">\n          <li><strong>PRICE_MODIFIED:</strong> Pro Plan updated from $10/user/mo to $12/user/mo</li>\n        </ul>\n      </div>\n    \n        </div>\n\n        <div style=\"background: #f1f5f9; padding: 16px 24px; border-top: 1px solid #e2e8f0; font-size: 12px; color: #64748b; text-align: center;\">\n          Sent by Competitor Monitoring System • Generated at Mon, 26 Oct 2026 17:57:00 GMT\n        </div>\n      </div>\n    </body>\n    </html>\n  "
+      },
+      "status": "LOGGED_ONLY",
+      "note": "SMTP not configured. HTML email digest stored in dashboard."
+    },
+    {
+      "id": "alert_1793037360720_3ch9n",
+      "timestamp": "2026-10-26T17:56:00.720Z",
+      "type": "SLACK",
+      "competitorDomain": "demo-competitor.com",
+      "message": "DEMO-COMPETITOR.COM published 1 new post and updated their pricing!",
+      "payload": {
+        "text": "DEMO-COMPETITOR.COM published 1 new post and updated their pricing!",
+        "blocks": [
+          {
+            "type": "header",
+            "text": {
+              "type": "plain_text",
+              "text": "🎯 Competitor Alert: demo-competitor.com",
+              "emoji": true
+            }
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*DEMO-COMPETITOR.COM* published *1 new post* and updated their *pricing*!"
+            }
+          },
+          {
+            "type": "divider"
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*📰 Newly Published Articles (1)*"
+            }
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*1. <https://linear.app/blog/workflow-automation-2026|How Next-Gen Teams Automate Workflows in 2026>*\n📅 Published: _Oct 26, 2026_\n🎯 Keyword: `workflow automation` | 📈 Est. Vol: *4,400/mo* (CPC $3.4)\n📝 _Discover our updated guide on automating issue triaging, notifications, and team velocity._"
+            }
+          },
+          {
+            "type": "divider"
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*💳 Pricing Changes Detected:*\n• *PRICE_MODIFIED*: Pro Plan updated from $10/user/mo to $12/user/mo"
+            }
+          },
+          {
+            "type": "context",
+            "elements": [
+              {
+                "type": "mrkdwn",
+                "text": "Automated by Competitor Monitor • Mon, 26 Oct 2026 17:56:00 GMT"
+              }
+            ]
+          }
+        ]
+      },
+      "status": "SENT",
+      "note": "Successfully delivered to Slack."
+    },
+    {
+      "id": "alert_1793032598916_px4xg",
+      "timestamp": "2026-10-26T16:36:38.916Z",
+      "type": "EMAIL",
+      "competitorDomain": "zapier.com",
+      "message": "[Competitor Alert] ZAPIER.COM published 8 new post(s)",
+      "payload": {
+        "to": "not_configured",
+        "subject": "[Competitor Alert] ZAPIER.COM published 8 new post(s)",
+        "html": "\n    <!DOCTYPE html>\n    <html>\n    <head>\n      <meta charset=\"utf-8\">\n      <title>Competitor Alert: zapier.com</title>\n    </head>\n    <body style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f8fafc; padding: 24px; margin: 0;\">\n      <div style=\"max-width: 640px; margin: 0 auto; background: #ffffff; border-radius: 12px; border: 1px solid #e2e8f0; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);\">\n        <div style=\"background: #0f172a; padding: 24px; color: #ffffff;\">\n          <span style=\"background: #3b82f6; font-size: 11px; text-transform: uppercase; font-weight: 700; padding: 3px 8px; border-radius: 4px; letter-spacing: 0.5px;\">Competitor Alert</span>\n          <h1 style=\"margin: 12px 0 4px 0; font-size: 22px;\">ZAPIER.COM</h1>\n          <p style=\"margin: 0; color: #94a3b8; font-size: 14px;\">\n            8 new articles discovered\n            \n          </p>\n        </div>\n\n        <div style=\"padding: 24px;\">\n          <h2 style=\"font-size: 16px; color: #334155; margin: 0 0 16px 0;\">Recent Blog Posts</h2>\n    <div style=\"background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; margin-bottom: 14px;\">\n      <div style=\"font-size: 16px; font-weight: 700; color: #1e293b; margin-bottom: 6px;\">\n        1. <a href=\"https://zapier.com/blog/what-you-should-automate\" style=\"color: #2563eb; text-decoration: none;\" target=\"_blank\">5 systems you should automate today</a>\n      </div>\n      <div style=\"font-size: 12px; color: #64748b; margin-bottom: 8px;\">\n        📅 Published: <strong>2/11/2020</strong>\n        &nbsp;|&nbsp;\n        🎯 Keyword: <span style=\"background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-family: monospace;\">what you should automate</span>\n        &nbsp;|&nbsp;\n        📈 Search Volume: <strong style=\"color: #059669;\">700/mo</strong>\n        &nbsp;|&nbsp;\n        CPC: <strong>$1.45</strong>\n      </div>\n      <div style=\"font-size: 13px; color: #475569; line-height: 1.5;\">\n        These five systems are ripe for automation—and we've got secure, AI-powered templates and pro tips to help you automate them in minutes.\n      </div>\n    </div>\n  \n    <div style=\"background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; margin-bottom: 14px;\">\n      <div style=\"font-size: 16px; font-weight: 700; color: #1e293b; margin-bottom: 6px;\">\n        2. <a href=\"https://zapier.com/blog/create-custom-ai-chatbots-with-interfaces\" style=\"color: #2563eb; text-decoration: none;\" target=\"_blank\">How to create a custom AI chatbot with Zapier Chatbots</a>\n      </div>\n      <div style=\"font-size: 12px; color: #64748b; margin-bottom: 8px;\">\n        📅 Published: <strong>4/20/2023</strong>\n        &nbsp;|&nbsp;\n        🎯 Keyword: <span style=\"background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-family: monospace;\">create custom ai chatbots with</span>\n        &nbsp;|&nbsp;\n        📈 Search Volume: <strong style=\"color: #059669;\">610/mo</strong>\n        &nbsp;|&nbsp;\n        CPC: <strong>$5.3</strong>\n      </div>\n      <div style=\"font-size: 13px; color: #475569; line-height: 1.5;\">\n        Zapier gives you the ability to create custom web pages and apps that can also pull in the power of GPT with a chatbot component. Learn how to create your own.\n      </div>\n    </div>\n  \n    <div style=\"background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; margin-bottom: 14px;\">\n      <div style=\"font-size: 16px; font-weight: 700; color: #1e293b; margin-bottom: 6px;\">\n        3. <a href=\"https://zapier.com/blog/get-started-with-zapier\" style=\"color: #2563eb; text-decoration: none;\" target=\"_blank\">Get started with Zapier</a>\n      </div>\n      <div style=\"font-size: 12px; color: #64748b; margin-bottom: 8px;\">\n        📅 Published: <strong>5/29/2025</strong>\n        &nbsp;|&nbsp;\n        🎯 Keyword: <span style=\"background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-family: monospace;\">get started with zapier</span>\n        &nbsp;|&nbsp;\n        📈 Search Volume: <strong style=\"color: #059669;\">970/mo</strong>\n        &nbsp;|&nbsp;\n        CPC: <strong>$3.45</strong>\n      </div>\n      <div style=\"font-size: 13px; color: #475569; line-height: 1.5;\">\n        Zapier is the AI orchestration layer that bonds your tools together, giving you the ability to create AI-powered systems with enterprise-grade security.\n      </div>\n    </div>\n  \n    <div style=\"background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; margin-bottom: 14px;\">\n      <div style=\"font-size: 16px; font-weight: 700; color: #1e293b; margin-bottom: 6px;\">\n        4. <a href=\"https://zapier.com/blog/what-are-webhooks\" style=\"color: #2563eb; text-decoration: none;\" target=\"_blank\">What are webhooks?</a>\n      </div>\n      <div style=\"font-size: 12px; color: #64748b; margin-bottom: 8px;\">\n        📅 Published: <strong>3/29/2018</strong>\n        &nbsp;|&nbsp;\n        🎯 Keyword: <span style=\"background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-family: monospace;\">what are webhooks</span>\n        &nbsp;|&nbsp;\n        📈 Search Volume: <strong style=\"color: #059669;\">1,890/mo</strong>\n        &nbsp;|&nbsp;\n        CPC: <strong>$4.25</strong>\n      </div>\n      <div style=\"font-size: 13px; color: #475569; line-height: 1.5;\">\n        You might have seen webhooks mentioned in your apps' settings and wondered if they're something you should use. The answer, in a nutshell, is probably yes.\n      </div>\n    </div>\n  \n    <div style=\"background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; margin-bottom: 14px;\">\n      <div style=\"font-size: 16px; font-weight: 700; color: #1e293b; margin-bottom: 6px;\">\n        5. <a href=\"https://zapier.com/blog/ai-orchestration\" style=\"color: #2563eb; text-decoration: none;\" target=\"_blank\">What is AI orchestration? A guide to intelligent systems</a>\n      </div>\n      <div style=\"font-size: 12px; color: #64748b; margin-bottom: 8px;\">\n        📅 Published: <strong>7/17/2025</strong>\n        &nbsp;|&nbsp;\n        🎯 Keyword: <span style=\"background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-family: monospace;\">ai orchestration</span>\n        &nbsp;|&nbsp;\n        📈 Search Volume: <strong style=\"color: #059669;\">4,730/mo</strong>\n        &nbsp;|&nbsp;\n        CPC: <strong>$6.5</strong>\n      </div>\n      <div style=\"font-size: 13px; color: #475569; line-height: 1.5;\">\n        AI orchestration is the practice of coordinating a business's artificial intelligence-related tools, models, data, and workflows to work together as a unified whole.\n      </div>\n    </div>\n  \n    <div style=\"background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; margin-bottom: 14px;\">\n      <div style=\"font-size: 16px; font-weight: 700; color: #1e293b; margin-bottom: 6px;\">\n        6. <a href=\"https://zapier.com/blog/zapier-copilot-guide\" style=\"color: #2563eb; text-decoration: none;\" target=\"_blank\">Zapier Copilot: Build multi-product systems with an AI assistant</a>\n      </div>\n      <div style=\"font-size: 12px; color: #64748b; margin-bottom: 8px;\">\n        📅 Published: <strong>5/7/2024</strong>\n        &nbsp;|&nbsp;\n        🎯 Keyword: <span style=\"background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-family: monospace;\">zapier copilot guide</span>\n        &nbsp;|&nbsp;\n        📈 Search Volume: <strong style=\"color: #059669;\">1,330/mo</strong>\n        &nbsp;|&nbsp;\n        CPC: <strong>$3.75</strong>\n      </div>\n      <div style=\"font-size: 13px; color: #475569; line-height: 1.5;\">\n        Discover how Zapier's built-in AI tool can help you create automated systems—no coding experience required.\n      </div>\n    </div>\n  \n    <div style=\"background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; margin-bottom: 14px;\">\n      <div style=\"font-size: 16px; font-weight: 700; color: #1e293b; margin-bottom: 6px;\">\n        7. <a href=\"https://zapier.com/blog/zapier-ai-guide\" style=\"color: #2563eb; text-decoration: none;\" target=\"_blank\">Zapier's AI tools: Get to know our governed AI products and features</a>\n      </div>\n      <div style=\"font-size: 12px; color: #64748b; margin-bottom: 8px;\">\n        📅 Published: <strong>5/7/2024</strong>\n        &nbsp;|&nbsp;\n        🎯 Keyword: <span style=\"background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-family: monospace;\">zapier ai guide</span>\n        &nbsp;|&nbsp;\n        📈 Search Volume: <strong style=\"color: #059669;\">2,120/mo</strong>\n        &nbsp;|&nbsp;\n        CPC: <strong>$4.1</strong>\n      </div>\n      <div style=\"font-size: 13px; color: #475569; line-height: 1.5;\">\n        Planning your next AI-powered build is easier when you know what you have to work with. Peek inside for a look at the AI tools available in Zapier today.\n      </div>\n    </div>\n  \n    <div style=\"background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; margin-bottom: 14px;\">\n      <div style=\"font-size: 16px; font-weight: 700; color: #1e293b; margin-bottom: 6px;\">\n        8. <a href=\"https://zapier.com/blog/zapier-mcp-guide\" style=\"color: #2563eb; text-decoration: none;\" target=\"_blank\">Zapier MCP: Perform tens of thousands of actions in your AI tool</a>\n      </div>\n      <div style=\"font-size: 12px; color: #64748b; margin-bottom: 8px;\">\n        📅 Published: <strong>4/3/2025</strong>\n        &nbsp;|&nbsp;\n        🎯 Keyword: <span style=\"background: #f1f5f9; padding: 2px 6px; border-radius: 4px; font-family: monospace;\">zapier mcp guide</span>\n        &nbsp;|&nbsp;\n        📈 Search Volume: <strong style=\"color: #059669;\">1,300/mo</strong>\n        &nbsp;|&nbsp;\n        CPC: <strong>$1.55</strong>\n      </div>\n      <div style=\"font-size: 13px; color: #475569; line-height: 1.5;\">\n        The fastest way to let your AI interact with thousands of apps. No complex API integrations required.\n      </div>\n    </div>\n  \n          \n        </div>\n\n        <div style=\"background: #f1f5f9; padding: 16px 24px; border-top: 1px solid #e2e8f0; font-size: 12px; color: #64748b; text-align: center;\">\n          Sent by Competitor Monitoring System • Generated at Mon, 26 Oct 2026 16:36:38 GMT\n        </div>\n      </div>\n    </body>\n    </html>\n  "
+      },
+      "status": "LOGGED_ONLY",
+      "note": "SMTP not configured. HTML email digest stored in dashboard."
+    },
+    {
+      "id": "alert_1793032598915_kmbmp",
+      "timestamp": "2026-10-26T16:36:38.915Z",
+      "type": "SLACK",
+      "competitorDomain": "zapier.com",
+      "message": "ZAPIER.COM published 8 new posts!",
+      "payload": {
+        "text": "ZAPIER.COM published 8 new posts!",
+        "blocks": [
+          {
+            "type": "header",
+            "text": {
+              "type": "plain_text",
+              "text": "🎯 Competitor Alert: zapier.com",
+              "emoji": true
+            }
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*ZAPIER.COM* published *8 new posts*!"
+            }
+          },
+          {
+            "type": "divider"
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*📰 Newly Published Articles (8)*"
+            }
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*1. <https://zapier.com/blog/what-you-should-automate|5 systems you should automate today>*\n📅 Published: _Feb 11, 2020_\n🎯 Keyword: `what you should automate` | 📈 Est. Vol: *700/mo* (CPC $1.45)\n📝 _These five systems are ripe for automation—and we've got secure, AI-powered templates and pro tips to help you automate them in minutes._"
+            }
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*2. <https://zapier.com/blog/create-custom-ai-chatbots-with-interfaces|How to create a custom AI chatbot with Zapier Chatbots>*\n📅 Published: _Apr 20, 2023_\n🎯 Keyword: `create custom ai chatbots with` | 📈 Est. Vol: *610/mo* (CPC $5.3)\n📝 _Zapier gives you the ability to create custom web pages and apps that can also pull in the power of GPT with a chatbot component. Learn how to create your own._"
+            }
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*3. <https://zapier.com/blog/get-started-with-zapier|Get started with Zapier>*\n📅 Published: _May 29, 2025_\n🎯 Keyword: `get started with zapier` | 📈 Est. Vol: *970/mo* (CPC $3.45)\n📝 _Zapier is the AI orchestration layer that bonds your tools together, giving you the ability to create AI-powered systems with enterprise-grade security._"
+            }
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*4. <https://zapier.com/blog/what-are-webhooks|What are webhooks?>*\n📅 Published: _Mar 29, 2018_\n🎯 Keyword: `what are webhooks` | 📈 Est. Vol: *1,890/mo* (CPC $4.25)\n📝 _You might have seen webhooks mentioned in your apps' settings and wondered if they're something you should use. The answer, in a nutshell, is probably yes._"
+            }
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*5. <https://zapier.com/blog/ai-orchestration|What is AI orchestration? A guide to intelligent systems>*\n📅 Published: _Jul 17, 2025_\n🎯 Keyword: `ai orchestration` | 📈 Est. Vol: *4,730/mo* (CPC $6.5)\n📝 _AI orchestration is the practice of coordinating a business's artificial intelligence-related tools, models, data, and workflows to work together as a unified whole._"
+            }
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*6. <https://zapier.com/blog/zapier-copilot-guide|Zapier Copilot: Build multi-product systems with an AI assistant>*\n📅 Published: _May 7, 2024_\n🎯 Keyword: `zapier copilot guide` | 📈 Est. Vol: *1,330/mo* (CPC $3.75)\n📝 _Discover how Zapier's built-in AI tool can help you create automated systems—no coding experience required._"
+            }
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*7. <https://zapier.com/blog/zapier-ai-guide|Zapier's AI tools: Get to know our governed AI products and features>*\n📅 Published: _May 7, 2024_\n🎯 Keyword: `zapier ai guide` | 📈 Est. Vol: *2,120/mo* (CPC $4.1)\n📝 _Planning your next AI-powered build is easier when you know what you have to work with. Peek inside for a look at the AI tools available in Zapier today._"
+            }
+          },
+          {
+            "type": "section",
+            "text": {
+              "type": "mrkdwn",
+              "text": "*8. <https://zapier.com/blog/zapier-mcp-guide|Zapier MCP: Perform tens of thousands of actions in your AI tool>*\n📅 Published: _Apr 3, 2025_\n🎯 Keyword: `zapier mcp guide` | 📈 Est. Vol: *1,300/mo* (CPC $1.55)\n📝 _The fastest way to let your AI interact with thousands of apps. No complex API integrations required._"
+            }
+          },
+          {
+            "type": "context",
+            "elements": [
+              {
+                "type": "mrkdwn",
+                "text": "Automated by Competitor Monitor • Mon, 26 Oct 2026 16:36:38 GMT"
+              }
+            ]
+          }
+        ]
+      },
+      "status": "LOGGED_ONLY",
+      "note": "Slack webhook URL not configured in Settings. Alert preview stored."
+    }
+  ],
+  "settings": {
+    "slackWebhookUrl": "",
+    "emailRecipient": "",
+    "keywordProvider": "heuristic_fallback",
+    "dataForSeoLogin": "",
+    "dataForSeoPassword": "",
+    "keywordsEverywhereApiKey": "",
+    "rapidApiKey": "",
+    "autoAlertOnNewPosts": true,
+    "autoAlertOnPricingChange": true
+  }
+}

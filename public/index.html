@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Competitor Monitor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="navbar">
+    <div class="nav-container">
+      <div class="nav-brand">
+        <svg class="brand-icon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M2 12h5l3 7 4-14 3 7h5"/>
+        </svg>
+        <span class="brand-name">Competitor Monitor</span>
+      </div>
+
+      <div class="nav-actions">
+        <button id="btnOpenSettings" class="btn btn-secondary btn-sm">
+          Settings & Webhooks
+        </button>
+        <button id="btnSendTestAlert" class="btn btn-secondary btn-sm">
+          Send Test Alert
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <div class="app-container">
+
+    <section class="scan-section">
+      <div class="scan-box">
+        <form id="scanForm" class="scan-form">
+          <div class="input-wrapper">
+            <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"></circle>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+            <input 
+              type="text" 
+              id="domainInput" 
+              placeholder="Enter competitor domain (e.g. zapier.com, linear.app, github.blog)" 
+              required
+              autocomplete="off"
+            >
+            <button type="submit" id="btnRunScan" class="btn btn-primary">
+              <span class="btn-text">Scan Domain</span>
+              <span class="btn-spinner" style="display: none;"></span>
+            </button>
+          </div>
+
+          <div class="scan-sub-row">
+            <div class="presets-row">
+              <span class="sub-label">Quick test:</span>
+              <button type="button" class="preset-link" data-domain="linear.app">linear.app</button>
+              <span class="sep">•</span>
+              <button type="button" class="preset-link" data-domain="zapier.com">zapier.com</button>
+              <span class="sep">•</span>
+              <button type="button" class="preset-link" data-domain="github.blog">github.blog</button>
+              <span class="sep">•</span>
+              <button type="button" class="preset-link text-dim" data-domain="example.com">example.com (No Blog)</button>
+            </div>
+
+            <label class="baseline-toggle">
+              <input type="checkbox" id="sendBaselineAlertCheck">
+              <span>Send alert on first run (baseline)</span>
+            </label>
+          </div>
+        </form>
+
+        <div id="scanStatusBar" class="scan-status-bar" style="display: none;">
+          <div class="status-indicator-dot"></div>
+          <span id="scanStatusText" class="status-text">Scanning competitor...</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="metrics-row">
+      <div class="metric-card">
+        <div class="metric-label">Tracked Competitors</div>
+        <div class="metric-value" id="statCompetitorsCount">0</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Articles Discovered</div>
+        <div class="metric-value" id="statPostsCount">0</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Alerts Dispatched</div>
+        <div class="metric-value" id="statAlertsCount">0</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-label">Pricing Snapshots</div>
+        <div class="metric-value" id="statPricingChecks">0</div>
+      </div>
+    </section>
+
+    <div class="tab-nav">
+      <button class="tab-button active" data-tab="tabArticles">
+        Articles <span class="tab-count" id="badgeArticles">0</span>
+      </button>
+      <button class="tab-button" data-tab="tabCompetitors">
+        Competitors <span class="tab-count" id="badgeCompetitors">0</span>
+      </button>
+      <button class="tab-button" data-tab="tabPricing">
+        Pricing Changes
+      </button>
+      <button class="tab-button" data-tab="tabAlerts">
+        Alerts History <span class="tab-count" id="badgeAlerts">0</span>
+      </button>
+      <button class="tab-button" data-tab="tabHistory">
+        Audit Log
+      </button>
+    </div>
+
+    <section id="tabArticles" class="tab-content active">
+      <div class="content-toolbar">
+        <div class="filter-group">
+          <select id="filterDomainSelect" class="form-select">
+            <option value="">All Competitor Domains</option>
+          </select>
+          <input type="text" id="filterKeywordInput" class="form-input" placeholder="Filter by title or keyword...">
+        </div>
+      </div>
+
+      <div id="articlesList" class="articles-container"></div>
+    </section>
+
+    <section id="tabCompetitors" class="tab-content">
+      <div class="content-toolbar">
+        <div class="toolbar-heading">Tracked Domains</div>
+      </div>
+      <div id="competitorsGrid" class="competitors-list"></div>
+    </section>
+
+    <section id="tabPricing" class="tab-content">
+      <div class="content-toolbar">
+        <div class="toolbar-heading">Pricing Intelligence</div>
+        <select id="pricingDomainSelect" class="form-select">
+          <option value="">Select a Competitor</option>
+        </select>
+      </div>
+      <div id="pricingDetailsView" class="pricing-container"></div>
+    </section>
+
+    <section id="tabAlerts" class="tab-content">
+      <div class="content-toolbar">
+        <div class="toolbar-heading">Dispatched Slack Alerts</div>
+      </div>
+      <div id="alertsList" class="alerts-container"></div>
+    </section>
+
+    <section id="tabHistory" class="tab-content">
+      <div class="content-toolbar">
+        <div class="toolbar-heading">Scan Execution History</div>
+      </div>
+      <div id="runsHistoryList" class="table-container"></div>
+    </section>
+
+  </div>
+
+  <div id="settingsModal" class="modal-overlay" style="display: none;">
+    <div class="modal-card">
+      <div class="modal-head">
+        <h3>Slack & Scraper Settings</h3>
+        <button type="button" class="btn-close" id="btnCloseSettings">✕</button>
+      </div>
+
+      <div class="modal-content">
+        <form id="settingsForm">
+          
+          <div class="field-section">
+            <label class="field-title">Slack Webhook URL</label>
+            <div class="field-row">
+              <input 
+                type="url" 
+                id="slackWebhookInput" 
+                class="form-input" 
+                placeholder="https://hooks.slack.com/services/..."
+              >
+              <button type="button" id="btnTestSlackSettings" class="btn btn-secondary btn-sm">Test</button>
+            </div>
+            <p class="field-help">Alerts with competitor article links, keywords, and pricing diffs will post directly to this webhook.</p>
+          </div>
+
+          <div class="field-section">
+            <label class="field-title">Keyword Enrichment Mode</label>
+            <select id="keywordProviderSelect" class="form-select full-width">
+              <option value="heuristic_fallback">Built-in Estimator (Free / No API key needed)</option>
+              <option value="dataforseo">DataForSEO API</option>
+              <option value="keywords_everywhere">Keywords Everywhere API</option>
+            </select>
+          </div>
+
+          <div id="dataForSeoFields" class="provider-fields" style="display: none;">
+            <div class="field-section">
+              <label class="field-title">DataForSEO Login</label>
+              <input type="text" id="dataForSeoLogin" class="form-input full-width">
+            </div>
+            <div class="field-section">
+              <label class="field-title">DataForSEO Password</label>
+              <input type="password" id="dataForSeoPassword" class="form-input full-width">
+            </div>
+          </div>
+
+          <div id="keywordsEverywhereFields" class="provider-fields" style="display: none;">
+            <div class="field-section">
+              <label class="field-title">Keywords Everywhere API Key</label>
+              <input type="password" id="keywordsEverywhereKey" class="form-input full-width">
+            </div>
+          </div>
+
+          <div class="info-callout">
+            <strong>Note:</strong> If an API key is missing or invalid, the system automatically falls back to the built-in search volume estimator without interrupting crawls.
+          </div>
+
+          <div class="modal-actions">
+            <button type="button" class="btn btn-secondary" id="btnCancelSettings">Cancel</button>
+            <button type="submit" class="btn btn-primary">Save Settings</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div id="alertPreviewModal" class="modal-overlay" style="display: none;">
+    <div class="modal-card">
+      <div class="modal-head">
+        <h3 id="alertPreviewTitle">Alert Details</h3>
+        <button type="button" class="btn-close" id="btnCloseAlertPreview">✕</button>
+      </div>
+      <div class="modal-content" id="alertPreviewBody"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
